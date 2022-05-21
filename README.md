@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator Completed Code
 
 ## Purpose
 A website that generates a new password for a user
