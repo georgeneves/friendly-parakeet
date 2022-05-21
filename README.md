@@ -5,8 +5,10 @@ A website that generates a new password for a user
 Allows user to create a new password with specific criteria
 
 ## Appearance
-![password](./images/password.png)
-![length prompt](./images/length_prompt.png)
+
+![length prompt](./develop/images/lengthprompt.png)
+
+![password](./develop/images/password.png)
 
 ## Built with
 * HTML
