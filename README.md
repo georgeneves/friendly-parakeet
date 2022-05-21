@@ -6,9 +6,9 @@ Allows user to create a new password with specific criteria
 
 ## Appearance
 
-![length prompt](./develop/images/lengthprompt.png)
+![length prompt](./assets/images/lengthprompt.png)
 
-![password](./develop/images/password.png)
+![password](./assets/images/password.png)
 
 ## Built with
 * HTML
